@@ -27137,15 +27137,8 @@
 			]
 		}
 	}, {
-        "id": 9623580007,
-        "osm_type": "relation",
-        "type": "Feature",
-        "name": "Northern Region",
-        "properties": {
-            "name": "Northern Region",
-            "boundary": "administrative",
-            "admin_level": "4"
-        },
+		"type": "Feature",
+		"id": 7,
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -29671,17 +29664,16 @@
 					[-87.9332545916507, 18.169370447848]
 				]
 			]
+		},
+		"properties": {
+			"OBJECTID_1": 7,
+			"OBJECTID": 7,
+			"Name": "Northern Region",
+			"Shape_Leng": 293425.30273
 		}
 	}, {
-		"id": 9623580008,
-        "osm_type": "relation",
-        "type": "Feature",
-        "name": "Ambergris Caye",
-        "properties": {
-            "name": "Ambergris Caye",
-            "boundary": "administrative",
-            "admin_level": "4"
-        },
+		"type": "Feature",
+		"id": 8,
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -29845,17 +29837,16 @@
 					[-87.8488213493158, 17.7263953036005]
 				]
 			]
+		},
+		"properties": {
+			"OBJECTID_1": 8,
+			"OBJECTID": 8,
+			"Name": "Ambergris Caye",
+			"Shape_Leng": 151579.34084
 		}
 	}, {
-        "id": 9623580009,
-        "osm_type": "relation",
-        "type": "Feature",
-        "name": "Central Region",
-        "properties": {
-            "name": "Central Region",
-            "boundary": "administrative",
-            "admin_level": "4"
-        },
+		"type": "Feature",
+		"id": 9,
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -35293,17 +35284,16 @@
 					[-88.095513800602, 17.8154340367606]
 				]
 			]
+		},
+		"properties": {
+			"OBJECTID_1": 9,
+			"OBJECTID": 9,
+			"Name": "Central Region",
+			"Shape_Leng": 248009.399837
 		}
 	}, {
-		"id": 9623580010,
-        "osm_type": "relation",
-        "type": "Feature",
-        "name": "Caye Caulker",
-        "properties": {
-            "name": "Caye Caulker",
-            "boundary": "administrative",
-            "admin_level": "4"
-        },
+		"type": "Feature",
+		"id": 10,
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -35317,17 +35307,16 @@
 					[-87.9649370678319, 17.7997978383881]
 				]
 			]
+		},
+		"properties": {
+			"OBJECTID_1": 10,
+			"OBJECTID": 10,
+			"Name": "Caye Caulker",
+			"Shape_Leng": 60777.2873228
 		}
 	}, {
-        "id": 9623580011,
-        "osm_type": "relation",
-        "type": "Feature",
-        "name": "Turneffe Atoll",
-        "properties": {
-            "name": "Turneffe Atoll",
-            "boundary": "administrative",
-            "admin_level": "4"
-        },
+		"type": "Feature",
+		"id": 11,
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -35345,17 +35334,16 @@
 					[-87.8488213493158, 17.7263953036005]
 				]
 			]
+		},
+		"properties": {
+			"OBJECTID_1": 11,
+			"OBJECTID": 11,
+			"Name": "Turneffe Atoll",
+			"Shape_Leng": 201171.416957
 		}
 	}, {
-        "id": 9623580012,
-        "osm_type": "relation",
-        "type": "Feature",
-        "name": "Lighthouse Reef Atoll",
-        "properties": {
-            "name": "Lighthouse Reef Atoll",
-            "boundary": "administrative",
-            "admin_level": "4"
-        },
+		"type": "Feature",
+		"id": 12,
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -35367,17 +35355,16 @@
 					[-87.7519218166675, 17.0940586140044]
 				]
 			]
+		},
+		"properties": {
+			"OBJECTID_1": 12,
+			"OBJECTID": 12,
+			"Name": "Lighthouse Reef Atoll",
+			"Shape_Leng": 168140.299314
 		}
 	}, {
-        "id": 9623580013,
-        "osm_type": "relation",
-        "type": "Feature",
-        "name": "South Northern Region",
-        "properties": {
-            "name": "South Northern Region",
-            "boundary": "administrative",
-            "admin_level": "4"
-        },
+		"type": "Feature",
+		"id": 13,
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -35900,17 +35887,16 @@
 					[-87.9868707150496, 17.093050695414]
 				]
 			]
+		},
+		"properties": {
+			"OBJECTID_1": 13,
+			"OBJECTID": 13,
+			"Name": "South Northern Region",
+			"Shape_Leng": 262724.918719
 		}
 	}, {
-        "id": 9623580014,
-        "osm_type": "relation",
-        "type": "Feature",
-        "name": "South Central Region",
-        "properties": {
-            "name": "South Central Region",
-            "boundary": "administrative",
-            "admin_level": "4"
-        },
+		"type": "Feature",
+		"id": 14,
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -38597,17 +38583,16 @@
 					[-87.7498534572809, 16.6437801244269]
 				]
 			]
+		},
+		"properties": {
+			"OBJECTID_1": 14,
+			"OBJECTID": 14,
+			"Name": "South Central Region",
+			"Shape_Leng": 287916.10416
 		}
 	}, {
-        "id": 9623580015,
-        "osm_type": "relation",
-        "type": "Feature",
-        "name": "Southern Region",
-        "properties": {
-            "name": "Southern Region",
-            "boundary": "administrative",
-            "admin_level": "4"
-        },
+		"type": "Feature",
+		"id": 15,
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -42307,6 +42292,12 @@
 					[-87.9370878647026, 16.3700985360246]
 				]
 			]
+		},
+		"properties": {
+			"OBJECTID_1": 15,
+			"OBJECTID": 15,
+			"Name": "Southern Region",
+			"Shape_Leng": 295048.943191
 		}
 	}]
 }
