@@ -256,7 +256,7 @@
 		"properties": {
 			"admin_level": 1,
 			"is_in_country": 287827,
-			"name": "Corozal",
+			"name": "Corozal District",
 			"parent_id": 287827,
 			"is_simplified": true,
 			"osm_id": 962356,
@@ -611,7 +611,7 @@
 		"properties": {
 			"admin_level": 1,
 			"is_in_country": 287827,
-			"name": "Orange Walk",
+			"name": "Orange Walk District",
 			"parent_id": 287827,
 			"is_simplified": true,
 			"osm_id": 962355,
@@ -1328,7 +1328,7 @@
 		"properties": {
 			"admin_level": 1,
 			"is_in_country": 287827,
-			"name": "Cayo",
+			"name": "Cayo District",
 			"parent_id": 287827,
 			"is_simplified": true,
 			"osm_id": 962357,
@@ -1724,7 +1724,7 @@
 		"properties": {
 			"admin_level": 1,
 			"is_in_country": 287827,
-			"name": "Stann Creek",
+			"name": "Stann Creek District",
 			"parent_id": 287827,
 			"is_simplified": true,
 			"osm_id": 962353,
@@ -2183,7 +2183,7 @@
 		"properties": {
 			"admin_level": 1,
 			"is_in_country": 287827,
-			"name": "Toledo",
+			"name": "Toledo District",
 			"parent_id": 287827,
 			"is_simplified": true,
 			"osm_id": 962358,
