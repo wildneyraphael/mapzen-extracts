@@ -2412,9 +2412,9 @@
       },
       "type": "Feature",
       "properties": {
-        "admin_level": 0,
+        "admin_level": 1,
         "is_in_country": null,
-        "name": "Хуссар Ирыстон - Южная Осетия",
+        "name": "სამხრეთ ოსეთი",
         "parent_id": null,
         "is_simplified": true,
         "osm_id": 1152717,
