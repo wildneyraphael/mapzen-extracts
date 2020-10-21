@@ -665,12 +665,12 @@
         ]
       },
       "properties": {
-        "ADM0_EN": "United Republic of Tanzania",
-        "ADM0_SW": "Jamhuri ya Muungano wa Tanzania",
+        "ADM0_EN": "Tanzania",
+        "ADM0_SW": "Tanzania",
         "ADM0_PCODE": "TZ",
-        "osm_id": "TZ",
-        "name": "Jamhuri ya Muungano wa Tanzania",
-        "name_en": "United Republic of Tanzania",
+        "osm_id": "TZ00",
+        "name": "Tanzania",
+        "name_en": "Tanzania",
         "is_in_country": "None",
         "is_in_state": "None",
         "is_simplified": true
