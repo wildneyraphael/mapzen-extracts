@@ -16208,12 +16208,12 @@
             },
             "properties":{
                 "admin_level": 1,
-                "name": "Ångermanland",
+                "name": "Västerbotten",
                 "is_in_country": "SWE00", 
                 "is_in_state": "None", 
                 "is_simplified": null, 
                 "osm_id": "SWE0023",
-                "name_en": "Ångermanland"
+                "name_en": "Västerbotten"
             }
         },
         {
@@ -18086,12 +18086,12 @@
             },
             "properties":{
                 "admin_level": 1,
-                "name": "Västerbotten",
+                "name": "Norrbotten",
                 "is_in_country": "SWE00", 
                 "is_in_state": "None", 
                 "is_simplified": null, 
                 "osm_id": "SWE0025",
-                "name_en": "Västerbotten"
+                "name_en": "Norrbotten"
             }
         }
     ]
