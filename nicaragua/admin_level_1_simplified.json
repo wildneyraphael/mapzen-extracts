@@ -22435,12 +22435,12 @@
           },
           "properties":{
             "admin_level": 1,
-            "name": "Manágua",
+            "name": "Managua",
             "is_in_country": "NIC00", 
             "is_in_state": "None", 
             "is_simplified": true, 
             "osm_id": "NIC010",
-            "name_en": "Manágua"
+            "name_en": "Managua"
           }
        },
        {
@@ -57708,7 +57708,7 @@
           },
           "properties":{
             "admin_level": 1,
-            "name": "Región Autónoma del Atlántico Sul",
+            "name": "Región Autónoma del Atlántico Sur",
             "is_in_country": "NIC00", 
             "is_in_state": "None", 
             "is_simplified": true, 
